@@ -11,12 +11,12 @@
 
     <description>Adi's first Scratch PhoneGap game!</description>
   
-    <author href="foo.com" email="foo@bar.com">tuneableice</author  
+    <author href="foo.com" email="foo@bar.com">tuneableice</author>  
 
     <icon src="icon.png" />
         
-    <content src="index.html"></content>
+    <content src="index.html" />
      
-    <access origin="*"></access>
+    <access origin="*" />
 
 </widget>
