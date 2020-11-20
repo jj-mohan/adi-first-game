@@ -11,8 +11,12 @@
 
     <description>Adi's first Scratch PhoneGap game!</description>
   
-    <author>tuneableice</author  
+    <author href="foo.com" email="foo@bar.com">tuneableice</author  
 
     <icon src="icon.png" />
+        
+    <content src="index.html"></content>
+     
+    <access origin="*"></access>
 
 </widget>
